@@ -1,0 +1,44 @@
+#!/bin/bash
+## COMPAS Slurm job script
+#   for TACC Frontera CLX nodes
+# 
+#   *** MPI Job in Development Queue ***
+#
+#----------------------------------------------------
+
+#SBATCH -J n_5.00e+06_met_4.48e-03_to_3.00e-02           # Job name
+#SBATCH -o n_5.00e+06_met_4.48e-03_to_3.00e-02.o%j	   # Name of stdout output file
+#SBATCH -e n_5.00e+06_met_4.48e-03_to_3.00e-02.e%j	   # Name of stderr error file
+#SBATCH -p normal          # Queue (partition) name
+#SBATCH -N 6             # Total # of nodes
+#SBATCH -n 300             # Total # of mpi tasks
+#SBATCH -t 10:00:00       # Run time (hh:mm:ss)
+#SBATCH --mail-type=all    # Send email at begin and end of job
+#SBATCH --mail-user=vkapil1@jh.edu
+
+# Any other commands must follow all #SBATCH directives...
+
+# Load modules
+module reset 
+module load TACC intel impi hdf5 gsl gcc
+# Print information
+module list
+pwd
+date
+
+export I_MPI_DEBUG=4
+
+mkdir $WORK/cosmo_bh_grid/n_5.00e+06
+
+# Launch MPI code...
+mkdir $WORK/cosmo_bh_grid/n_5.00e+06/met_4.48e-03
+mkdir $WORK/cosmo_bh_grid/n_5.00e+06/met_8.45e-03
+mkdir $WORK/cosmo_bh_grid/n_5.00e+06/met_1.59e-02
+
+for i in `seq 1 100` 
+do 
+    ibrun -n 1 ~/COMPAS/src/COMPAS --number-of-systems 50000 --output-path $WORK/cosmo_bh_grid/n_5.00e+06/met_4.48e-03/ --metallicity 0.00448140 --output-container run_$i & 
+    ibrun -n 1 ~/COMPAS/src/COMPAS --number-of-systems 50000 --output-path $WORK/cosmo_bh_grid/n_5.00e+06/met_8.45e-03/ --metallicity 0.00844598 --output-container run_$i & 
+    ibrun -n 1 ~/COMPAS/src/COMPAS --number-of-systems 50000 --output-path $WORK/cosmo_bh_grid/n_5.00e+06/met_1.59e-02/ --metallicity 0.01591789 --output-container run_$i & 
+done 
+wait

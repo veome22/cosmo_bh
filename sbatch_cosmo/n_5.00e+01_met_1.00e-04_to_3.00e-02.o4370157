@@ -1,0 +1,703 @@
+/home1/08178/vkapil/cosmo_bh/sbatch_cosmo
+Mon May 16 13:28:24 CDT 2022
+TACC:  Starting up job 4370157 
+TACC:  Starting up job 4370157 
+TACC:  Starting up job 4370157 
+TACC:  Starting up job 4370157 
+TACC:  Starting up job 4370157 
+TACC:  Starting up job 4370157 
+TACC:  Starting up job 4370157 
+TACC:  Starting parallel tasks... 
+TACC:  Starting parallel tasks... 
+TACC:  Starting parallel tasks... 
+TACC:  Starting parallel tasks... 
+TACC:  Starting parallel tasks... 
+TACC:  Starting parallel tasks... 
+TACC:  Starting parallel tasks... 
+TACC:  Starting up job 4370157 
+TACC:  Starting up job 4370157 
+TACC:  Starting up job 4370157 
+TACC:  Starting parallel tasks... 
+TACC:  Starting parallel tasks... 
+TACC:  Starting parallel tasks... 
+
+COMPAS v02.29.00
+Compact Object Mergers: Population Astrophysics and Statistics
+by Team COMPAS (http://compas.science/index.html)
+A binary star simulator
+
+Start generating binaries at Mon May 16 13:28:26 2022
+
+
+COMPAS v02.29.00
+Compact Object Mergers: Population Astrophysics and Statistics
+by Team COMPAS (http://compas.science/index.html)
+A binary star simulator
+
+Start generating binaries at Mon May 16 13:28:26 2022
+
+
+COMPAS v02.29.00
+Compact Object Mergers: Population Astrophysics and Statistics
+by Team COMPAS (http://compas.science/index.html)
+A binary star simulator
+
+Start generating binaries at Mon May 16 13:28:26 2022
+
+
+COMPAS v02.29.00
+Compact Object Mergers: Population Astrophysics and Statistics
+by Team COMPAS (http://compas.science/index.html)
+A binary star simulator
+
+Start generating binaries at Mon May 16 13:28:26 2022
+
+
+COMPAS v02.29.00
+Compact Object Mergers: Population Astrophysics and Statistics
+by Team COMPAS (http://compas.science/index.html)
+A binary star simulator
+
+Start generating binaries at Mon May 16 13:28:26 2022
+
+
+COMPAS v02.29.00
+Compact Object Mergers: Population Astrophysics and Statistics
+by Team COMPAS (http://compas.science/index.html)
+A binary star simulator
+
+Start generating binaries at Mon May 16 13:28:26 2022
+
+
+COMPAS v02.29.00
+Compact Object Mergers: Population Astrophysics and Statistics
+by Team COMPAS (http://compas.science/index.html)
+A binary star simulator
+
+Start generating binaries at Mon May 16 13:28:26 2022
+
+
+COMPAS v02.29.00
+Compact Object Mergers: Population Astrophysics and Statistics
+by Team COMPAS (http://compas.science/index.html)
+A binary star simulator
+
+Start generating binaries at Mon May 16 13:28:26 2022
+
+
+COMPAS v02.29.00
+Compact Object Mergers: Population Astrophysics and Statistics
+by Team COMPAS (http://compas.science/index.html)
+A binary star simulator
+
+Start generating binaries at Mon May 16 13:28:26 2022
+
+
+COMPAS v02.29.00
+Compact Object Mergers: Population Astrophysics and Statistics
+by Team COMPAS (http://compas.science/index.html)
+A binary star simulator
+
+Start generating binaries at Mon May 16 13:28:26 2022
+
+0: Stars merged: (Main_Sequence_>_0.7 -> Naked_Helium_Star_MS) + (Main_Sequence_>_0.7 -> Naked_Helium_Star_MS)
+0: Stars merged: (Main_Sequence_>_0.7 -> Naked_Helium_Star_Giant_Branch) + (Main_Sequence_>_0.7 -> Naked_Helium_Star_MS)
+0: Stars merged: (Main_Sequence_>_0.7 -> Naked_Helium_Star_Giant_Branch) + (Main_Sequence_>_0.7 -> Naked_Helium_Star_MS)
+0: Stars merged: (Main_Sequence_>_0.7 -> Naked_Helium_Star_Giant_Branch) + (Main_Sequence_>_0.7 -> Naked_Helium_Star_MS)
+0: Unbound binary: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_>_0.7 -> Core_Helium_Burning)
+0: Unbound binary: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_>_0.7 -> Core_Helium_Burning)
+0: Stars merged: (Main_Sequence_>_0.7 -> Naked_Helium_Star_Hertzsprung_Gap) + (Main_Sequence_>_0.7 -> Naked_Helium_Star_MS)
+1: Stars merged: (Main_Sequence_>_0.7 -> Naked_Helium_Star_MS) + (Main_Sequence_>_0.7 -> Hertzsprung_Gap)
+0: Unbound binary: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_>_0.7 -> Core_Helium_Burning)
+0: Unbound binary: (Main_Sequence_>_0.7 -> Oxygen-Neon_White_Dwarf) + (Main_Sequence_>_0.7 -> Neutron_Star)
+0: Unbound binary: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_>_0.7 -> Core_Helium_Burning)
+1: Stars merged: (Main_Sequence_>_0.7 -> Naked_Helium_Star_MS) + (Main_Sequence_>_0.7 -> Hertzsprung_Gap)
+1: Stars merged: (Main_Sequence_>_0.7 -> Naked_Helium_Star_Hertzsprung_Gap) + (Main_Sequence_>_0.7 -> Hertzsprung_Gap)
+1: Stars merged: (Main_Sequence_>_0.7 -> Carbon-Oxygen_White_Dwarf) + (Main_Sequence_>_0.7 -> Hertzsprung_Gap)
+1: Stars merged: (Main_Sequence_>_0.7 -> Naked_Helium_Star_MS) + (Main_Sequence_>_0.7 -> Naked_Helium_Star_MS)
+2: Stars merged: (Main_Sequence_>_0.7 -> Carbon-Oxygen_White_Dwarf) + (Main_Sequence_>_0.7 -> Hertzsprung_Gap)
+1: Stars merged: (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+2: Double White Dwarf: (Main_Sequence_>_0.7 -> Carbon-Oxygen_White_Dwarf) + (Main_Sequence_>_0.7 -> Carbon-Oxygen_White_Dwarf)
+1: Stars merged: (Main_Sequence_>_0.7 -> Carbon-Oxygen_White_Dwarf) + (Main_Sequence_>_0.7 -> Hertzsprung_Gap)
+1: Stars merged: (Main_Sequence_>_0.7 -> Naked_Helium_Star_MS) + (Main_Sequence_>_0.7 -> Naked_Helium_Star_MS)
+2: Double White Dwarf: (Main_Sequence_>_0.7 -> Carbon-Oxygen_White_Dwarf) + (Main_Sequence_>_0.7 -> Carbon-Oxygen_White_Dwarf)
+2: Stars merged: (Main_Sequence_>_0.7 -> Naked_Helium_Star_MS) + (Main_Sequence_>_0.7 -> Naked_Helium_Star_MS)
+2: Double White Dwarf: (Main_Sequence_>_0.7 -> Carbon-Oxygen_White_Dwarf) + (Main_Sequence_>_0.7 -> Carbon-Oxygen_White_Dwarf)
+1: Double White Dwarf: (Main_Sequence_>_0.7 -> Carbon-Oxygen_White_Dwarf) + (Main_Sequence_>_0.7 -> Carbon-Oxygen_White_Dwarf)
+3: Stars merged: (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+2: Stars merged: (Main_Sequence_>_0.7 -> Naked_Helium_Star_MS) + (Main_Sequence_>_0.7 -> Naked_Helium_Star_MS)
+3: Stars merged: (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+2: Double White Dwarf: (Main_Sequence_>_0.7 -> Carbon-Oxygen_White_Dwarf) + (Main_Sequence_>_0.7 -> Carbon-Oxygen_White_Dwarf)
+3: Stars merged: (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+4: Unbound binary: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+4: Unbound binary: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+3: Stars merged: (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+2: Double White Dwarf: (Main_Sequence_>_0.7 -> Carbon-Oxygen_White_Dwarf) + (Main_Sequence_>_0.7 -> Carbon-Oxygen_White_Dwarf)
+4: Unbound binary: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+3: Stars merged: (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+3: Stars merged: (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+4: Unbound binary: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+1: Stars merged: (Main_Sequence_>_0.7 -> Carbon-Oxygen_White_Dwarf) + (Main_Sequence_>_0.7 -> Naked_Helium_Star_MS)
+4: Unbound binary: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+4: Unbound binary: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+2: Stars merged: (Main_Sequence_>_0.7 -> Carbon-Oxygen_White_Dwarf) + (Main_Sequence_>_0.7 -> Naked_Helium_Star_MS)
+2: Unbound binary: (Main_Sequence_>_0.7 -> Naked_Helium_Star_MS) + (Main_Sequence_>_0.7 -> Neutron_Star)
+3: Stars merged: (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+5: Unbound binary: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+3: Stars merged: (Main_Sequence_>_0.7 -> Naked_Helium_Star_MS) + (Main_Sequence_>_0.7 -> Naked_Helium_Star_MS)
+4: Unbound binary: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+5: Unbound binary: (Main_Sequence_>_0.7 -> Black_Hole) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+4: Unbound binary: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+3: Stars merged: (Main_Sequence_>_0.7 -> Naked_Helium_Star_MS) + (Main_Sequence_>_0.7 -> Naked_Helium_Star_MS)
+5: Unbound binary: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+6: Stars merged: (Main_Sequence_>_0.7 -> Naked_Helium_Star_MS) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+5: Unbound binary: (Main_Sequence_>_0.7 -> Black_Hole) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+5: Unbound binary: (Main_Sequence_>_0.7 -> Black_Hole) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+4: Unbound binary: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+5: Unbound binary: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+6: Stars merged: (Main_Sequence_>_0.7 -> Naked_Helium_Star_MS) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+6: Unbound binary: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+6: Stars merged: (Main_Sequence_>_0.7 -> Naked_Helium_Star_MS) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+5: Unbound binary: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+3: Stars merged: (Main_Sequence_>_0.7 -> Naked_Helium_Star_MS) + (Main_Sequence_>_0.7 -> Naked_Helium_Star_MS)
+6: Stars merged: (Main_Sequence_>_0.7 -> Naked_Helium_Star_MS) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+6: Stars merged: (Main_Sequence_>_0.7 -> Naked_Helium_Star_MS) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+6: Unbound binary: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+7: Stars merged: (Main_Sequence_>_0.7 -> Naked_Helium_Star_Giant_Branch) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+5: Unbound binary: (Main_Sequence_>_0.7 -> Black_Hole) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+4: Stars merged: (Main_Sequence_>_0.7 -> Naked_Helium_Star_MS) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+5: Unbound binary: (Main_Sequence_>_0.7 -> Black_Hole) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+7: Stars merged: (Main_Sequence_>_0.7 -> Naked_Helium_Star_Giant_Branch) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+7: Double White Dwarf: (Main_Sequence_>_0.7 -> Carbon-Oxygen_White_Dwarf) + (Main_Sequence_>_0.7 -> Carbon-Oxygen_White_Dwarf)
+7: Stars merged: (Main_Sequence_>_0.7 -> Naked_Helium_Star_Hertzsprung_Gap) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+7: Massless Remnant formed: (Main_Sequence_>_0.7 -> Massless_Remnant) + (Main_Sequence_>_0.7 -> Naked_Helium_Star_MS)
+7: Stars merged: (Main_Sequence_>_0.7 -> Naked_Helium_Star_Giant_Branch) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+7: Stars merged: (Main_Sequence_>_0.7 -> Naked_Helium_Star_Giant_Branch) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+6: Stars merged: (Main_Sequence_>_0.7 -> Naked_Helium_Star_MS) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+8: Allowed time exceeded: (Main_Sequence_>_0.7 -> Carbon-Oxygen_White_Dwarf) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+6: Stars merged: (Main_Sequence_>_0.7 -> Naked_Helium_Star_MS) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+5: Unbound binary: (Main_Sequence_>_0.7 -> Black_Hole) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+8: Allowed time exceeded: (Main_Sequence_>_0.7 -> Carbon-Oxygen_White_Dwarf) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+8: Allowed time exceeded: (Main_Sequence_>_0.7 -> Oxygen-Neon_White_Dwarf) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+8: Allowed time exceeded: (Main_Sequence_>_0.7 -> Oxygen-Neon_White_Dwarf) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+8: Allowed time exceeded: (Main_Sequence_>_0.7 -> Carbon-Oxygen_White_Dwarf) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+7: Stars merged: (Main_Sequence_>_0.7 -> Naked_Helium_Star_Giant_Branch) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+8: Allowed time exceeded: (Main_Sequence_>_0.7 -> Carbon-Oxygen_White_Dwarf) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+8: Allowed time exceeded: (Main_Sequence_>_0.7 -> Oxygen-Neon_White_Dwarf) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+9: Unbound binary: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+6: Stars merged: (Main_Sequence_>_0.7 -> Naked_Helium_Star_MS) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+7: Stars merged: (Main_Sequence_>_0.7 -> Naked_Helium_Star_Giant_Branch) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+9: Unbound binary: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+9: Unbound binary: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+10: Stars merged: (Main_Sequence_>_0.7 -> Naked_Helium_Star_MS) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+9: Unbound binary: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+9: Unbound binary: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+10: Stars merged: (Main_Sequence_>_0.7 -> Naked_Helium_Star_Hertzsprung_Gap) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+9: Unbound binary: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+8: Allowed time exceeded: (Main_Sequence_>_0.7 -> Oxygen-Neon_White_Dwarf) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+9: Unbound binary: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+10: Massless Remnant formed: (Main_Sequence_>_0.7 -> Massless_Remnant) + (Main_Sequence_>_0.7 -> Naked_Helium_Star_MS)
+7: Stars merged: (Main_Sequence_>_0.7 -> Naked_Helium_Star_Giant_Branch) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+10: Stars merged: (Main_Sequence_>_0.7 -> Naked_Helium_Star_Hertzsprung_Gap) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+8: Allowed time exceeded: (Main_Sequence_>_0.7 -> Oxygen-Neon_White_Dwarf) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+10: Stars merged: (Main_Sequence_>_0.7 -> Naked_Helium_Star_Giant_Branch) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+11: Unbound binary: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+11: Unbound binary: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+11: Unbound binary: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+10: Double White Dwarf: (Main_Sequence_>_0.7 -> Carbon-Oxygen_White_Dwarf) + (Main_Sequence_>_0.7 -> Carbon-Oxygen_White_Dwarf)
+9: Unbound binary: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+10: Massless Remnant formed: (Main_Sequence_>_0.7 -> Massless_Remnant) + (Main_Sequence_>_0.7 -> Naked_Helium_Star_MS)
+11: Unbound binary: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+11: Unbound binary: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+9: Unbound binary: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+8: Allowed time exceeded: (Main_Sequence_>_0.7 -> Oxygen-Neon_White_Dwarf) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+11: Unbound binary: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+11: Unbound binary: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+10: Massless Remnant formed: (Main_Sequence_>_0.7 -> Massless_Remnant) + (Main_Sequence_>_0.7 -> Naked_Helium_Star_MS)
+12: Double White Dwarf: (Main_Sequence_>_0.7 -> Oxygen-Neon_White_Dwarf) + (Main_Sequence_>_0.7 -> Carbon-Oxygen_White_Dwarf)
+10: Stars merged: (Main_Sequence_>_0.7 -> Naked_Helium_Star_Hertzsprung_Gap) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+13: Stars merged: (Main_Sequence_>_0.7 -> Naked_Helium_Star_MS) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+9: Unbound binary: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+14: Stars merged: (Main_Sequence_>_0.7 -> Hertzsprung_Gap) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+12: Double White Dwarf: (Main_Sequence_>_0.7 -> Oxygen-Neon_White_Dwarf) + (Main_Sequence_>_0.7 -> Carbon-Oxygen_White_Dwarf)
+12: Double White Dwarf: (Main_Sequence_>_0.7 -> Carbon-Oxygen_White_Dwarf) + (Main_Sequence_>_0.7 -> Carbon-Oxygen_White_Dwarf)
+13: Unbound binary: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+15: Unbound binary: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+13: Unbound binary: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+14: Stars merged: (Main_Sequence_>_0.7 -> Hertzsprung_Gap) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+14: Stars merged: (Main_Sequence_>_0.7 -> Hertzsprung_Gap) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+12: Double White Dwarf: (Main_Sequence_>_0.7 -> Carbon-Oxygen_White_Dwarf) + (Main_Sequence_>_0.7 -> Carbon-Oxygen_White_Dwarf)
+11: Unbound binary: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+15: Unbound binary: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+13: Unbound binary: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+11: Unbound binary: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+15: Stars merged: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_>_0.7 -> Hertzsprung_Gap)
+14: Stars merged: (Main_Sequence_>_0.7 -> Hertzsprung_Gap) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+12: Double White Dwarf: (Main_Sequence_>_0.7 -> Oxygen-Neon_White_Dwarf) + (Main_Sequence_>_0.7 -> Carbon-Oxygen_White_Dwarf)
+13: Stars merged: (Main_Sequence_>_0.7 -> Naked_Helium_Star_MS) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+15: Unbound binary: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+10: Stars merged: (Main_Sequence_>_0.7 -> Naked_Helium_Star_Hertzsprung_Gap) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+12: Double White Dwarf: (Main_Sequence_>_0.7 -> Oxygen-Neon_White_Dwarf) + (Main_Sequence_>_0.7 -> Carbon-Oxygen_White_Dwarf)
+14: Stars merged: (Main_Sequence_>_0.7 -> Hertzsprung_Gap) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+12: Double White Dwarf: (Main_Sequence_>_0.7 -> Oxygen-Neon_White_Dwarf) + (Main_Sequence_>_0.7 -> Carbon-Oxygen_White_Dwarf)
+15: Unbound binary: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+13: Stars merged: (Main_Sequence_>_0.7 -> Naked_Helium_Star_MS) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+14: Stars merged: (Main_Sequence_>_0.7 -> Hertzsprung_Gap) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+12: Unbound binary: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+13: Stars merged: (Main_Sequence_>_0.7 -> Naked_Helium_Star_MS) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+15: Unbound binary: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+14: Stars merged: (Main_Sequence_>_0.7 -> Hertzsprung_Gap) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+11: Unbound binary: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+12: Double White Dwarf: (Main_Sequence_>_0.7 -> Oxygen-Neon_White_Dwarf) + (Main_Sequence_>_0.7 -> Carbon-Oxygen_White_Dwarf)
+13: Stars merged: (Main_Sequence_>_0.7 -> Naked_Helium_Star_MS) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+16: Double White Dwarf: (Main_Sequence_>_0.7 -> Carbon-Oxygen_White_Dwarf) + (Main_Sequence_>_0.7 -> Carbon-Oxygen_White_Dwarf)
+14: Stars merged: (Main_Sequence_>_0.7 -> Hertzsprung_Gap) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+13: Stars merged: (Main_Sequence_>_0.7 -> Naked_Helium_Star_MS) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+16: Double White Dwarf: (Main_Sequence_>_0.7 -> Carbon-Oxygen_White_Dwarf) + (Main_Sequence_>_0.7 -> Carbon-Oxygen_White_Dwarf)
+15: Stars merged: (Main_Sequence_>_0.7 -> Naked_Helium_Star_Hertzsprung_Gap) + (Main_Sequence_>_0.7 -> Naked_Helium_Star_MS)
+14: Stars merged: (Main_Sequence_>_0.7 -> Hertzsprung_Gap) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+16: Double White Dwarf: (Main_Sequence_>_0.7 -> Carbon-Oxygen_White_Dwarf) + (Main_Sequence_>_0.7 -> Carbon-Oxygen_White_Dwarf)
+16: Double White Dwarf: (Main_Sequence_>_0.7 -> Carbon-Oxygen_White_Dwarf) + (Main_Sequence_>_0.7 -> Carbon-Oxygen_White_Dwarf)
+17: Unbound binary: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+15: Stars merged: (Main_Sequence_>_0.7 -> Naked_Helium_Star_MS) + (Main_Sequence_>_0.7 -> Naked_Helium_Star_MS)
+16: Double White Dwarf: (Main_Sequence_>_0.7 -> Carbon-Oxygen_White_Dwarf) + (Main_Sequence_>_0.7 -> Carbon-Oxygen_White_Dwarf)
+17: Unbound binary: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+17: Unbound binary: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+12: Double White Dwarf: (Main_Sequence_>_0.7 -> Oxygen-Neon_White_Dwarf) + (Main_Sequence_>_0.7 -> Carbon-Oxygen_White_Dwarf)
+15: Stars merged: (Main_Sequence_>_0.7 -> Naked_Helium_Star_MS) + (Main_Sequence_>_0.7 -> Naked_Helium_Star_MS)
+16: Double White Dwarf: (Main_Sequence_>_0.7 -> Carbon-Oxygen_White_Dwarf) + (Main_Sequence_>_0.7 -> Carbon-Oxygen_White_Dwarf)
+17: Unbound binary: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+18: Unbound binary: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+17: Unbound binary: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+18: Unbound binary: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+18: Unbound binary: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+13: Stars merged: (Main_Sequence_>_0.7 -> Naked_Helium_Star_MS) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+14: Stars merged: (Main_Sequence_>_0.7 -> Hertzsprung_Gap) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+18: Unbound binary: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+17: Unbound binary: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+16: Double White Dwarf: (Main_Sequence_>_0.7 -> Oxygen-Neon_White_Dwarf) + (Main_Sequence_>_0.7 -> Carbon-Oxygen_White_Dwarf)
+19: Unbound binary: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+18: Unbound binary: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+19: Unbound binary: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+15: Stars merged: (Main_Sequence_>_0.7 -> Naked_Helium_Star_MS) + (Main_Sequence_>_0.7 -> Naked_Helium_Star_MS)
+16: Double White Dwarf: (Main_Sequence_>_0.7 -> Oxygen-Neon_White_Dwarf) + (Main_Sequence_>_0.7 -> Carbon-Oxygen_White_Dwarf)
+18: Unbound binary: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+19: Double White Dwarf: (Main_Sequence_>_0.7 -> Oxygen-Neon_White_Dwarf) + (Main_Sequence_>_0.7 -> Carbon-Oxygen_White_Dwarf)
+17: Unbound binary: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+19: Unbound binary: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+16: Double White Dwarf: (Main_Sequence_>_0.7 -> Oxygen-Neon_White_Dwarf) + (Main_Sequence_>_0.7 -> Carbon-Oxygen_White_Dwarf)
+20: Unbound binary: (Main_Sequence_>_0.7 -> Carbon-Oxygen_White_Dwarf) + (Main_Sequence_>_0.7 -> Neutron_Star)
+20: Unbound binary: (Main_Sequence_>_0.7 -> Carbon-Oxygen_White_Dwarf) + (Main_Sequence_>_0.7 -> Neutron_Star)
+19: Double White Dwarf: (Main_Sequence_>_0.7 -> Oxygen-Neon_White_Dwarf) + (Main_Sequence_>_0.7 -> Carbon-Oxygen_White_Dwarf)
+17: Unbound binary: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+19: Unbound binary: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+20: Unbound binary: (Main_Sequence_>_0.7 -> Carbon-Oxygen_White_Dwarf) + (Main_Sequence_>_0.7 -> Neutron_Star)
+18: Unbound binary: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+17: Unbound binary: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+20: Unbound binary: (Main_Sequence_>_0.7 -> Carbon-Oxygen_White_Dwarf) + (Main_Sequence_>_0.7 -> Neutron_Star)
+20: Unbound binary: (Main_Sequence_>_0.7 -> Carbon-Oxygen_White_Dwarf) + (Main_Sequence_>_0.7 -> Neutron_Star)
+18: Unbound binary: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+19: Unbound binary: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+20: Unbound binary: (Main_Sequence_>_0.7 -> Carbon-Oxygen_White_Dwarf) + (Main_Sequence_>_0.7 -> Neutron_Star)
+16: Double White Dwarf: (Main_Sequence_>_0.7 -> Oxygen-Neon_White_Dwarf) + (Main_Sequence_>_0.7 -> Carbon-Oxygen_White_Dwarf)
+18: Unbound binary: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+21: Double White Dwarf: (Main_Sequence_>_0.7 -> Carbon-Oxygen_White_Dwarf) + (Main_Sequence_>_0.7 -> Carbon-Oxygen_White_Dwarf)
+22: Stars merged: (Main_Sequence_>_0.7 -> Naked_Helium_Star_MS) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+19: Unbound binary: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+21: Double White Dwarf: (Main_Sequence_>_0.7 -> Carbon-Oxygen_White_Dwarf) + (Main_Sequence_>_0.7 -> Carbon-Oxygen_White_Dwarf)
+19: Unbound binary: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+20: Unbound binary: (Main_Sequence_>_0.7 -> Carbon-Oxygen_White_Dwarf) + (Main_Sequence_>_0.7 -> Neutron_Star)
+21: Stars merged: (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+17: Unbound binary: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+23: Stars merged: (Main_Sequence_>_0.7 -> Naked_Helium_Star_MS) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+21: Double White Dwarf: (Main_Sequence_>_0.7 -> Carbon-Oxygen_White_Dwarf) + (Main_Sequence_>_0.7 -> Carbon-Oxygen_White_Dwarf)
+21: Double White Dwarf: (Main_Sequence_>_0.7 -> Carbon-Oxygen_White_Dwarf) + (Main_Sequence_>_0.7 -> Carbon-Oxygen_White_Dwarf)
+22: Stars merged: (Main_Sequence_>_0.7 -> Naked_Helium_Star_Hertzsprung_Gap) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+23: Stars merged: (Main_Sequence_>_0.7 -> Naked_Helium_Star_MS) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+22: Stars merged: (Main_Sequence_>_0.7 -> Naked_Helium_Star_Hertzsprung_Gap) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+20: Unbound binary: (Main_Sequence_>_0.7 -> Carbon-Oxygen_White_Dwarf) + (Main_Sequence_>_0.7 -> Neutron_Star)
+24: Unbound binary: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+22: Stars merged: (Main_Sequence_>_0.7 -> Naked_Helium_Star_Hertzsprung_Gap) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+21: Stars merged: (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+21: Double White Dwarf: (Main_Sequence_>_0.7 -> Carbon-Oxygen_White_Dwarf) + (Main_Sequence_>_0.7 -> Carbon-Oxygen_White_Dwarf)
+20: Unbound binary: (Main_Sequence_>_0.7 -> Carbon-Oxygen_White_Dwarf) + (Main_Sequence_>_0.7 -> Neutron_Star)
+21: Double White Dwarf: (Main_Sequence_>_0.7 -> Oxygen-Neon_White_Dwarf) + (Main_Sequence_>_0.7 -> Carbon-Oxygen_White_Dwarf)
+18: Unbound binary: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+23: Unbound binary: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+21: Stars merged: (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+22: Stars merged: (Main_Sequence_>_0.7 -> Naked_Helium_Star_Giant_Branch) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+23: Stars merged: (Main_Sequence_>_0.7 -> Naked_Helium_Star_MS) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+24: Unbound binary: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+23: Stars merged: (Main_Sequence_>_0.7 -> Naked_Helium_Star_MS) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+25: Allowed time exceeded: (Main_Sequence_>_0.7 -> Oxygen-Neon_White_Dwarf) + (Main_Sequence_<=_0.7 -> Main_Sequence_<=_0.7)
+22: Stars merged: (Main_Sequence_>_0.7 -> Naked_Helium_Star_Hertzsprung_Gap) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+22: Stars merged: (Main_Sequence_>_0.7 -> Naked_Helium_Star_Hertzsprung_Gap) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+24: Unbound binary: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+22: Stars merged: (Main_Sequence_>_0.7 -> Carbon-Oxygen_White_Dwarf) + (Main_Sequence_>_0.7 -> Hertzsprung_Gap)
+22: Stars merged: (Main_Sequence_>_0.7 -> Naked_Helium_Star_Hertzsprung_Gap) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+23: Unbound binary: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+19: Unbound binary: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+24: Unbound binary: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+24: Unbound binary: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+25: Allowed time exceeded: (Main_Sequence_>_0.7 -> Oxygen-Neon_White_Dwarf) + (Main_Sequence_<=_0.7 -> Main_Sequence_<=_0.7)
+23: Stars merged: (Main_Sequence_>_0.7 -> Naked_Helium_Star_MS) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+23: Stars merged: (Main_Sequence_>_0.7 -> Naked_Helium_Star_MS) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+26: Unbound binary: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+23: Stars merged: (Main_Sequence_>_0.7 -> Naked_Helium_Star_MS) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+25: Allowed time exceeded: (Main_Sequence_>_0.7 -> Carbon-Oxygen_White_Dwarf) + (Main_Sequence_<=_0.7 -> Main_Sequence_<=_0.7)
+27: Stars merged: (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+24: Unbound binary: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+28: Stars merged: (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7) + (Main_Sequence_<=_0.7 -> Main_Sequence_<=_0.7)
+26: Unbound binary: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+25: Allowed time exceeded: (Main_Sequence_>_0.7 -> Oxygen-Neon_White_Dwarf) + (Main_Sequence_<=_0.7 -> Main_Sequence_<=_0.7)
+25: Allowed time exceeded: (Main_Sequence_>_0.7 -> Oxygen-Neon_White_Dwarf) + (Main_Sequence_<=_0.7 -> Main_Sequence_<=_0.7)
+27: Stars merged: (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+24: Unbound binary: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+28: Stars merged: (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7) + (Main_Sequence_<=_0.7 -> Main_Sequence_<=_0.7)
+24: Unbound binary: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+20: Unbound binary: (Main_Sequence_>_0.7 -> Carbon-Oxygen_White_Dwarf) + (Main_Sequence_>_0.7 -> Neutron_Star)
+21: Stars merged: (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+24: Unbound binary: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+25: Allowed time exceeded: (Main_Sequence_>_0.7 -> Carbon-Oxygen_White_Dwarf) + (Main_Sequence_<=_0.7 -> Main_Sequence_<=_0.7)
+29: Unbound binary: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+26: Unbound binary: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+26: Unbound binary: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+27: Stars merged: (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+28: Stars merged: (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7) + (Main_Sequence_<=_0.7 -> Main_Sequence_<=_0.7)
+25: Allowed time exceeded: (Main_Sequence_>_0.7 -> Oxygen-Neon_White_Dwarf) + (Main_Sequence_<=_0.7 -> Main_Sequence_<=_0.7)
+25: Unbound binary: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_<=_0.7 -> Main_Sequence_<=_0.7)
+29: Unbound binary: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+27: Massless Remnant formed: (Main_Sequence_>_0.7 -> Massless_Remnant) + (Main_Sequence_>_0.7 -> Naked_Helium_Star_MS)
+26: Unbound binary: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+25: Unbound binary: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_<=_0.7 -> Main_Sequence_<=_0.7)
+22: Stars merged: (Main_Sequence_>_0.7 -> Naked_Helium_Star_Hertzsprung_Gap) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+28: Stars merged: (Main_Sequence_>_0.7 -> Hertzsprung_Gap) + (Main_Sequence_<=_0.7 -> Main_Sequence_<=_0.7)
+27: Stars merged: (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+28: Stars merged: (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7) + (Main_Sequence_<=_0.7 -> Main_Sequence_<=_0.7)
+30: Stars merged: (Main_Sequence_>_0.7 -> Naked_Helium_Star_MS) + (Main_Sequence_>_0.7 -> Naked_Helium_Star_MS)
+30: Stars merged: (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+26: Double White Dwarf: (Main_Sequence_>_0.7 -> Oxygen-Neon_White_Dwarf) + (Main_Sequence_>_0.7 -> Carbon-Oxygen_White_Dwarf)
+27: Stars merged: (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+26: Unbound binary: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+28: Stars merged: (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7) + (Main_Sequence_<=_0.7 -> Main_Sequence_<=_0.7)
+27: Stars merged: (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+29: Unbound binary: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+23: Stars merged: (Main_Sequence_>_0.7 -> Naked_Helium_Star_MS) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+26: Unbound binary: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+28: Stars merged: (Main_Sequence_>_0.7 -> Hertzsprung_Gap) + (Main_Sequence_<=_0.7 -> Main_Sequence_<=_0.7)
+26: Unbound binary: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+29: Unbound binary: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+29: Unbound binary: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+27: Massless Remnant formed: (Main_Sequence_>_0.7 -> Massless_Remnant) + (Main_Sequence_>_0.7 -> Naked_Helium_Star_MS)
+27: Massless Remnant formed: (Main_Sequence_>_0.7 -> Massless_Remnant) + (Main_Sequence_>_0.7 -> Naked_Helium_Star_MS)
+28: Stars merged: (Main_Sequence_>_0.7 -> Hertzsprung_Gap) + (Main_Sequence_<=_0.7 -> Main_Sequence_<=_0.7)
+28: Stars merged: (Main_Sequence_>_0.7 -> Hertzsprung_Gap) + (Main_Sequence_<=_0.7 -> Main_Sequence_<=_0.7)
+30: Stars merged: (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+30: Stars merged: (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+29: Unbound binary: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+24: Unbound binary: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+30: Stars merged: (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+31: Double White Dwarf: (Main_Sequence_>_0.7 -> Carbon-Oxygen_White_Dwarf) + (Main_Sequence_>_0.7 -> Carbon-Oxygen_White_Dwarf)
+29: Unbound binary: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+32: Stars merged: (Main_Sequence_>_0.7 -> Hertzsprung_Gap) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+30: Stars merged: (Main_Sequence_>_0.7 -> Naked_Helium_Star_MS) + (Main_Sequence_>_0.7 -> Naked_Helium_Star_MS)
+29: Unbound binary: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+31: Double White Dwarf: (Main_Sequence_>_0.7 -> Carbon-Oxygen_White_Dwarf) + (Main_Sequence_>_0.7 -> Carbon-Oxygen_White_Dwarf)
+29: Unbound binary: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+32: Stars merged: (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+25: Unbound binary: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_<=_0.7 -> Main_Sequence_<=_0.7)
+30: Stars merged: (Main_Sequence_>_0.7 -> Naked_Helium_Star_MS) + (Main_Sequence_>_0.7 -> Naked_Helium_Star_MS)
+33: Unbound binary: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_>_0.7 -> Early_Asymptotic_Giant_Branch)
+31: Double White Dwarf: (Main_Sequence_>_0.7 -> Carbon-Oxygen_White_Dwarf) + (Main_Sequence_>_0.7 -> Carbon-Oxygen_White_Dwarf)
+30: Stars merged: (Main_Sequence_>_0.7 -> Naked_Helium_Star_Hertzsprung_Gap) + (Main_Sequence_>_0.7 -> Core_Helium_Burning)
+31: Double White Dwarf: (Main_Sequence_>_0.7 -> Carbon-Oxygen_White_Dwarf) + (Main_Sequence_>_0.7 -> Carbon-Oxygen_White_Dwarf)
+30: Stars merged: (Main_Sequence_>_0.7 -> Naked_Helium_Star_MS) + (Main_Sequence_>_0.7 -> Naked_Helium_Star_MS)
+32: Stars merged: (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+32: Stars merged: (Main_Sequence_>_0.7 -> Hertzsprung_Gap) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+33: Unbound binary: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_>_0.7 -> Early_Asymptotic_Giant_Branch)
+31: Double White Dwarf: (Main_Sequence_>_0.7 -> Carbon-Oxygen_White_Dwarf) + (Main_Sequence_>_0.7 -> Carbon-Oxygen_White_Dwarf)
+32: Stars merged: (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+31: Double White Dwarf: (Main_Sequence_>_0.7 -> Oxygen-Neon_White_Dwarf) + (Main_Sequence_>_0.7 -> Carbon-Oxygen_White_Dwarf)
+26: Unbound binary: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+32: Stars merged: (Main_Sequence_>_0.7 -> Hertzsprung_Gap) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+27: Massless Remnant formed: (Main_Sequence_>_0.7 -> Massless_Remnant) + (Main_Sequence_>_0.7 -> Naked_Helium_Star_MS)
+34: Stars merged: (Main_Sequence_>_0.7 -> Naked_Helium_Star_Giant_Branch) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+28: Stars merged: (Main_Sequence_>_0.7 -> Hertzsprung_Gap) + (Main_Sequence_<=_0.7 -> Main_Sequence_<=_0.7)
+31: Double White Dwarf: (Main_Sequence_>_0.7 -> Oxygen-Neon_White_Dwarf) + (Main_Sequence_>_0.7 -> Carbon-Oxygen_White_Dwarf)
+33: Unbound binary: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_>_0.7 -> Early_Asymptotic_Giant_Branch)
+33: Unbound binary: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_>_0.7 -> Early_Asymptotic_Giant_Branch)
+32: Stars merged: (Main_Sequence_>_0.7 -> Hertzsprung_Gap) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+33: Unbound binary: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_>_0.7 -> Early_Asymptotic_Giant_Branch)
+34: Double White Dwarf: (Main_Sequence_>_0.7 -> Carbon-Oxygen_White_Dwarf) + (Main_Sequence_>_0.7 -> Carbon-Oxygen_White_Dwarf)
+35: Unbound binary: (Main_Sequence_>_0.7 -> Black_Hole) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+31: Double White Dwarf: (Main_Sequence_>_0.7 -> Oxygen-Neon_White_Dwarf) + (Main_Sequence_>_0.7 -> Carbon-Oxygen_White_Dwarf)
+31: Double White Dwarf: (Main_Sequence_>_0.7 -> Oxygen-Neon_White_Dwarf) + (Main_Sequence_>_0.7 -> Carbon-Oxygen_White_Dwarf)
+33: Unbound binary: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_>_0.7 -> Early_Asymptotic_Giant_Branch)
+32: Stars merged: (Main_Sequence_>_0.7 -> Hertzsprung_Gap) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+32: Stars merged: (Main_Sequence_>_0.7 -> Hertzsprung_Gap) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+34: Stars merged: (Main_Sequence_>_0.7 -> Naked_Helium_Star_Giant_Branch) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+34: Stars merged: (Main_Sequence_>_0.7 -> Naked_Helium_Star_Giant_Branch) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+29: Unbound binary: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+34: Stars merged: (Main_Sequence_>_0.7 -> Naked_Helium_Star_Giant_Branch) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+36: Stars merged: (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+33: Unbound binary: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_>_0.7 -> Early_Asymptotic_Giant_Branch)
+35: Unbound binary: (Main_Sequence_>_0.7 -> Black_Hole) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+35: Unbound binary: (Main_Sequence_>_0.7 -> Black_Hole) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+34: Massless Remnant formed: (Main_Sequence_>_0.7 -> Massless_Remnant) + (Main_Sequence_>_0.7 -> Naked_Helium_Star_MS)
+35: Unbound binary: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+35: Unbound binary: (Main_Sequence_>_0.7 -> Black_Hole) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+36: Stars merged: (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+30: Stars merged: (Main_Sequence_>_0.7 -> Carbon-Oxygen_White_Dwarf) + (Main_Sequence_>_0.7 -> Naked_Helium_Star_MS)
+36: Stars merged: (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+33: Unbound binary: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_>_0.7 -> Early_Asymptotic_Giant_Branch)
+33: Unbound binary: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_>_0.7 -> Early_Asymptotic_Giant_Branch)
+34: Massless Remnant formed: (Main_Sequence_>_0.7 -> Massless_Remnant) + (Main_Sequence_>_0.7 -> Naked_Helium_Star_MS)
+36: Stars merged: (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+35: Unbound binary: (Main_Sequence_>_0.7 -> Black_Hole) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+36: Stars merged: (Main_Sequence_>_0.7 -> Naked_Helium_Star_MS) + (Main_Sequence_>_0.7 -> Naked_Helium_Star_MS)
+34: Stars merged: (Main_Sequence_>_0.7 -> Naked_Helium_Star_Hertzsprung_Gap) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+34: Stars merged: (Main_Sequence_>_0.7 -> Naked_Helium_Star_Hertzsprung_Gap) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+35: Unbound binary: (Main_Sequence_>_0.7 -> Black_Hole) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+37: Double White Dwarf: (Main_Sequence_>_0.7 -> Oxygen-Neon_White_Dwarf) + (Main_Sequence_>_0.7 -> Carbon-Oxygen_White_Dwarf)
+36: Stars merged: (Main_Sequence_>_0.7 -> Naked_Helium_Star_MS) + (Main_Sequence_>_0.7 -> Naked_Helium_Star_MS)
+31: Double White Dwarf: (Main_Sequence_>_0.7 -> Oxygen-Neon_White_Dwarf) + (Main_Sequence_>_0.7 -> Carbon-Oxygen_White_Dwarf)
+35: Unbound binary: (Main_Sequence_>_0.7 -> Black_Hole) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+35: Unbound binary: (Main_Sequence_>_0.7 -> Black_Hole) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+32: Stars merged: (Main_Sequence_>_0.7 -> Hertzsprung_Gap) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+37: Double White Dwarf: (Main_Sequence_>_0.7 -> Oxygen-Neon_White_Dwarf) + (Main_Sequence_>_0.7 -> Carbon-Oxygen_White_Dwarf)
+37: Double White Dwarf: (Main_Sequence_>_0.7 -> Oxygen-Neon_White_Dwarf) + (Main_Sequence_>_0.7 -> Carbon-Oxygen_White_Dwarf)
+36: Stars merged: (Main_Sequence_>_0.7 -> Naked_Helium_Star_MS) + (Main_Sequence_>_0.7 -> Naked_Helium_Star_MS)
+38: Unbound binary: (Main_Sequence_>_0.7 -> Black_Hole) + (Main_Sequence_>_0.7 -> Core_Helium_Burning)
+37: Double White Dwarf: (Main_Sequence_>_0.7 -> Oxygen-Neon_White_Dwarf) + (Main_Sequence_>_0.7 -> Oxygen-Neon_White_Dwarf)
+37: Unbound binary: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+37: Double White Dwarf: (Main_Sequence_>_0.7 -> Oxygen-Neon_White_Dwarf) + (Main_Sequence_>_0.7 -> Oxygen-Neon_White_Dwarf)
+39: Stars merged: (Main_Sequence_>_0.7 -> Naked_Helium_Star_MS) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+36: Stars merged: (Main_Sequence_>_0.7 -> Naked_Helium_Star_MS) + (Main_Sequence_>_0.7 -> Naked_Helium_Star_MS)
+36: Stars merged: (Main_Sequence_>_0.7 -> Naked_Helium_Star_MS) + (Main_Sequence_>_0.7 -> Naked_Helium_Star_MS)
+38: Unbound binary: (Main_Sequence_>_0.7 -> Black_Hole) + (Main_Sequence_>_0.7 -> Naked_Helium_Star_MS)
+39: Stars touching: (Main_Sequence_>_0.7 -> Core_Helium_Burning) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+38: Unbound binary: (Main_Sequence_>_0.7 -> Black_Hole) + (Main_Sequence_>_0.7 -> Core_Helium_Burning)
+37: Unbound binary: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+Evolution of current binary stopped: Double compact object
+38: Evolution stopped: (Main_Sequence_>_0.7 -> Black_Hole) + (Main_Sequence_>_0.7 -> Black_Hole)
+39: Stars merged: (Main_Sequence_>_0.7 -> Naked_Helium_Star_MS) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+33: Unbound binary: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_>_0.7 -> Early_Asymptotic_Giant_Branch)
+40: Stars merged: (Main_Sequence_>_0.7 -> Naked_Helium_Star_Giant_Branch) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+38: Unbound binary: (Main_Sequence_>_0.7 -> Black_Hole) + (Main_Sequence_>_0.7 -> Core_Helium_Burning)
+41: Stars merged: (Main_Sequence_>_0.7 -> Black_Hole) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+40: Stars merged: (Main_Sequence_>_0.7 -> Naked_Helium_Star_Giant_Branch) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+38: Unbound binary: (Main_Sequence_>_0.7 -> Black_Hole) + (Main_Sequence_>_0.7 -> Core_Helium_Burning)
+37: Unbound binary: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+37: Unbound binary: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+42: Stars merged: (Main_Sequence_>_0.7 -> Naked_Helium_Star_Hertzsprung_Gap) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+43: Stars merged: (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+41: Stars merged: (Main_Sequence_>_0.7 -> Naked_Helium_Star_MS) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+39: Stars merged: (Main_Sequence_>_0.7 -> Naked_Helium_Star_MS) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+40: Stars merged: (Main_Sequence_>_0.7 -> Naked_Helium_Star_Giant_Branch) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+39: Stars merged: (Main_Sequence_>_0.7 -> Naked_Helium_Star_MS) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+42: Allowed time exceeded: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_>_0.7 -> Carbon-Oxygen_White_Dwarf)
+41: Unbound binary: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+34: Stars merged: (Main_Sequence_>_0.7 -> Naked_Helium_Star_Hertzsprung_Gap) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+38: Unbound binary: (Main_Sequence_>_0.7 -> Black_Hole) + (Main_Sequence_>_0.7 -> Core_Helium_Burning)
+39: Stars merged: (Main_Sequence_>_0.7 -> Naked_Helium_Star_MS) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+42: Allowed time exceeded: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_>_0.7 -> Carbon-Oxygen_White_Dwarf)
+43: Unbound binary: (Main_Sequence_>_0.7 -> Black_Hole) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+40: Stars merged: (Main_Sequence_>_0.7 -> Naked_Helium_Star_Giant_Branch) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+40: Massless Remnant formed: (Main_Sequence_>_0.7 -> Massless_Remnant) + (Main_Sequence_>_0.7 -> Helium_White_Dwarf)
+43: Unbound binary: (Main_Sequence_>_0.7 -> Black_Hole) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+39: Stars merged: (Main_Sequence_>_0.7 -> Naked_Helium_Star_MS) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+38: Unbound binary: (Main_Sequence_>_0.7 -> Black_Hole) + (Main_Sequence_>_0.7 -> Core_Helium_Burning)
+35: Unbound binary: (Main_Sequence_>_0.7 -> Black_Hole) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+40: Stars merged: (Main_Sequence_>_0.7 -> Naked_Helium_Star_Hertzsprung_Gap) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+38: Unbound binary: (Main_Sequence_>_0.7 -> Black_Hole) + (Main_Sequence_>_0.7 -> Black_Hole)
+41: Allowed time exceeded: (Main_Sequence_>_0.7 -> Black_Hole) + (Main_Sequence_>_0.7 -> Carbon-Oxygen_White_Dwarf)
+41: Unbound binary: (Main_Sequence_>_0.7 -> Black_Hole) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+40: Stars merged: (Main_Sequence_>_0.7 -> Naked_Helium_Star_Hertzsprung_Gap) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+39: Stars merged: (Main_Sequence_>_0.7 -> Naked_Helium_Star_MS) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+42: Allowed time exceeded: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_>_0.7 -> Carbon-Oxygen_White_Dwarf)
+44: Double White Dwarf: (Main_Sequence_>_0.7 -> Oxygen-Neon_White_Dwarf) + (Main_Sequence_>_0.7 -> Carbon-Oxygen_White_Dwarf)
+43: Stars merged: (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+41: Allowed time exceeded: (Main_Sequence_>_0.7 -> Black_Hole) + (Main_Sequence_>_0.7 -> Carbon-Oxygen_White_Dwarf)
+36: Stars merged: (Main_Sequence_>_0.7 -> Naked_Helium_Star_MS) + (Main_Sequence_>_0.7 -> Naked_Helium_Star_MS)
+39: Stars merged: (Main_Sequence_>_0.7 -> Naked_Helium_Star_MS) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+42: Stars merged: (Main_Sequence_>_0.7 -> Naked_Helium_Star_MS) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+43: Stars merged: (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+41: Allowed time exceeded: (Main_Sequence_>_0.7 -> Black_Hole) + (Main_Sequence_>_0.7 -> Carbon-Oxygen_White_Dwarf)
+40: Stars merged: (Main_Sequence_>_0.7 -> Naked_Helium_Star_Hertzsprung_Gap) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+44: Double White Dwarf: (Main_Sequence_>_0.7 -> Oxygen-Neon_White_Dwarf) + (Main_Sequence_>_0.7 -> Carbon-Oxygen_White_Dwarf)
+45: Unbound binary: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+40: Stars merged: (Main_Sequence_>_0.7 -> Naked_Helium_Star_Giant_Branch) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+46: Stars merged: (Main_Sequence_>_0.7 -> Naked_Helium_Star_MS) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+42: Stars merged: (Main_Sequence_>_0.7 -> Naked_Helium_Star_MS) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+44: Double White Dwarf: (Main_Sequence_>_0.7 -> Oxygen-Neon_White_Dwarf) + (Main_Sequence_>_0.7 -> Carbon-Oxygen_White_Dwarf)
+43: Stars merged: (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+37: Unbound binary: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+42: Stars merged: (Main_Sequence_>_0.7 -> Naked_Helium_Star_MS) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+45: Unbound binary: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+43: Stars merged: (Chemically_Homogeneous -> Main_Sequence_>_0.7) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+46: Unbound binary: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+41: Allowed time exceeded: (Main_Sequence_>_0.7 -> Black_Hole) + (Main_Sequence_>_0.7 -> Carbon-Oxygen_White_Dwarf)
+47: Unbound binary: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+45: Unbound binary: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+44: Unbound binary: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+46: Unbound binary: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+41: Allowed time exceeded: (Main_Sequence_>_0.7 -> Black_Hole) + (Main_Sequence_>_0.7 -> Carbon-Oxygen_White_Dwarf)
+44: Double White Dwarf: (Main_Sequence_>_0.7 -> Oxygen-Neon_White_Dwarf) + (Main_Sequence_>_0.7 -> Carbon-Oxygen_White_Dwarf)
+44: Unbound binary: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+47: Unbound binary: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+44: Double White Dwarf: (Main_Sequence_>_0.7 -> Oxygen-Neon_White_Dwarf) + (Main_Sequence_>_0.7 -> Carbon-Oxygen_White_Dwarf)
+38: Unbound binary: (Main_Sequence_>_0.7 -> Black_Hole) + (Main_Sequence_>_0.7 -> Core_Helium_Burning)
+42: Stars merged: (Main_Sequence_>_0.7 -> Naked_Helium_Star_MS) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+43: Stars merged: (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+45: Unbound binary: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+47: Unbound binary: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+45: Unbound binary: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+42: Stars merged: (Main_Sequence_>_0.7 -> Naked_Helium_Star_MS) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+45: Unbound binary: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+43: Stars merged: (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+45: Unbound binary: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+39: Stars merged: (Main_Sequence_>_0.7 -> Naked_Helium_Star_MS) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+44: Unbound binary: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+46: Stars merged: (Main_Sequence_>_0.7 -> Naked_Helium_Star_MS) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+46: Stars merged: (Main_Sequence_>_0.7 -> Naked_Helium_Star_MS) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+46: Stars merged: (Main_Sequence_>_0.7 -> Naked_Helium_Star_MS) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+46: Stars merged: (Main_Sequence_>_0.7 -> Naked_Helium_Star_MS) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+47: Stars merged: (Main_Sequence_>_0.7 -> Naked_Helium_Star_MS) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+44: Unbound binary: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+48: Double White Dwarf: (Main_Sequence_>_0.7 -> Oxygen-Neon_White_Dwarf) + (Main_Sequence_>_0.7 -> Carbon-Oxygen_White_Dwarf)
+49: Stars merged: (Main_Sequence_>_0.7 -> Hertzsprung_Gap) + (Main_Sequence_<=_0.7 -> Main_Sequence_<=_0.7)
+
+Generated 50 of 50 binaries requested
+
+Simulation completed
+47: Unbound binary: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+40: Stars merged: (Main_Sequence_>_0.7 -> Naked_Helium_Star_Giant_Branch) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+47: Unbound binary: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+45: Unbound binary: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+
+End generating binaries at Mon May 16 13:28:27 2022
+
+Clock time = 1.12 CPU seconds
+Wall time  = 0000:00:01 (hhhh:mm:ss)
+48: Double White Dwarf: (Main_Sequence_>_0.7 -> Oxygen-Neon_White_Dwarf) + (Main_Sequence_>_0.7 -> Carbon-Oxygen_White_Dwarf)
+47: Unbound binary: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+49: Stars merged: (Main_Sequence_>_0.7 -> Hertzsprung_Gap) + (Main_Sequence_<=_0.7 -> Main_Sequence_<=_0.7)
+
+Generated 50 of 50 binaries requested
+
+Simulation completed
+
+End generating binaries at Mon May 16 13:28:27 2022
+
+Clock time = 1.15 CPU seconds
+Wall time  = 0000:00:01 (hhhh:mm:ss)
+45: Unbound binary: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+46: Stars merged: (Main_Sequence_>_0.7 -> Naked_Helium_Star_MS) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+48: Double White Dwarf: (Main_Sequence_>_0.7 -> Oxygen-Neon_White_Dwarf) + (Main_Sequence_>_0.7 -> Carbon-Oxygen_White_Dwarf)
+48: Unbound binary: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+49: Stars merged: (Main_Sequence_>_0.7 -> Hertzsprung_Gap) + (Main_Sequence_<=_0.7 -> Main_Sequence_<=_0.7)
+
+Generated 50 of 50 binaries requested
+
+Simulation completed
+49: Stars merged: (Main_Sequence_>_0.7 -> Hertzsprung_Gap) + (Main_Sequence_<=_0.7 -> Main_Sequence_<=_0.7)
+
+Generated 50 of 50 binaries requested
+
+Simulation completed
+48: Unbound binary: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+
+End generating binaries at Mon May 16 13:28:27 2022
+
+Clock time = 1.15 CPU seconds
+Wall time  = 0000:00:01 (hhhh:mm:ss)
+
+End generating binaries at Mon May 16 13:28:27 2022
+
+Clock time = 1.17 CPU seconds
+Wall time  = 0000:00:01 (hhhh:mm:ss)
+41: Allowed time exceeded: (Main_Sequence_>_0.7 -> Black_Hole) + (Main_Sequence_>_0.7 -> Carbon-Oxygen_White_Dwarf)
+49: Stars merged: (Main_Sequence_>_0.7 -> Hertzsprung_Gap) + (Main_Sequence_<=_0.7 -> Main_Sequence_<=_0.7)
+
+Generated 50 of 50 binaries requested
+
+Simulation completed
+46: Stars merged: (Main_Sequence_>_0.7 -> Naked_Helium_Star_MS) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+
+End generating binaries at Mon May 16 13:28:27 2022
+
+Clock time = 1.17 CPU seconds
+Wall time  = 0000:00:01 (hhhh:mm:ss)
+47: Unbound binary: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+48: Double White Dwarf: (Main_Sequence_>_0.7 -> Oxygen-Neon_White_Dwarf) + (Main_Sequence_>_0.7 -> Carbon-Oxygen_White_Dwarf)
+49: Stars merged: (Main_Sequence_>_0.7 -> Hertzsprung_Gap) + (Main_Sequence_<=_0.7 -> Main_Sequence_<=_0.7)
+
+Generated 50 of 50 binaries requested
+
+Simulation completed
+
+End generating binaries at Mon May 16 13:28:27 2022
+
+Clock time = 1.18 CPU seconds
+Wall time  = 0000:00:01 (hhhh:mm:ss)
+42: Stars merged: (Main_Sequence_>_0.7 -> Naked_Helium_Star_MS) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+48: Double White Dwarf: (Main_Sequence_>_0.7 -> Oxygen-Neon_White_Dwarf) + (Main_Sequence_>_0.7 -> Carbon-Oxygen_White_Dwarf)
+43: Stars merged: (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+49: Stars merged: (Main_Sequence_>_0.7 -> Hertzsprung_Gap) + (Main_Sequence_<=_0.7 -> Main_Sequence_<=_0.7)
+
+Generated 50 of 50 binaries requested
+
+Simulation completed
+47: Unbound binary: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+48: Unbound binary: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+
+End generating binaries at Mon May 16 13:28:27 2022
+
+Clock time = 1.2 CPU seconds
+49: Stars merged: (Main_Sequence_>_0.7 -> Hertzsprung_Gap) + (Main_Sequence_<=_0.7 -> Main_Sequence_<=_0.7)
+
+Generated 50 of 50 binaries requested
+Wall time  = 0000:00:01 (hhhh:mm:ss)
+
+Simulation completed
+TACC:  Shutdown complete. Exiting. 
+
+End generating binaries at Mon May 16 13:28:27 2022
+
+Clock time = 1.2 CPU seconds
+Wall time  = 0000:00:01 (hhhh:mm:ss)
+TACC:  Shutdown complete. Exiting. 
+44: Unbound binary: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+48: Unbound binary: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+TACC:  Shutdown complete. Exiting. 
+TACC:  Shutdown complete. Exiting. 
+49: Stars merged: (Main_Sequence_>_0.7 -> Hertzsprung_Gap) + (Main_Sequence_<=_0.7 -> Main_Sequence_<=_0.7)
+
+Generated 50 of 50 binaries requested
+
+Simulation completed
+TACC:  Shutdown complete. Exiting. 
+
+End generating binaries at Mon May 16 13:28:27 2022
+
+Clock time = 1.23 CPU seconds
+Wall time  = 0000:00:01 (hhhh:mm:ss)
+45: Unbound binary: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+TACC:  Shutdown complete. Exiting. 
+46: Stars merged: (Main_Sequence_>_0.7 -> Naked_Helium_Star_MS) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+TACC:  Shutdown complete. Exiting. 
+47: Unbound binary: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+48: Unbound binary: (Main_Sequence_>_0.7 -> Neutron_Star) + (Main_Sequence_>_0.7 -> Main_Sequence_>_0.7)
+49: Stars merged: (Main_Sequence_>_0.7 -> Hertzsprung_Gap) + (Main_Sequence_<=_0.7 -> Main_Sequence_<=_0.7)
+
+Generated 50 of 50 binaries requested
+
+Simulation completed
+TACC:  Shutdown complete. Exiting. 
+
+End generating binaries at Mon May 16 13:28:27 2022
+
+Clock time = 1.32 CPU seconds
+Wall time  = 0000:00:01 (hhhh:mm:ss)
+TACC:  Shutdown complete. Exiting. 
+TACC:  Shutdown complete. Exiting. 

@@ -1,0 +1,58 @@
+#!/bin/bash
+## COMPAS Slurm job script
+#   for TACC Frontera CLX nodes
+# 
+#   *** MPI Job in Development Queue ***
+#
+#----------------------------------------------------
+
+#SBATCH -J n_5.00e+02_met_1.00e-04_to_3.00e-02           # Job name
+#SBATCH -o n_5.00e+02_met_1.00e-04_to_3.00e-02.o%j	   # Name of stdout output file
+#SBATCH -e n_5.00e+02_met_1.00e-04_to_3.00e-02.e%j	   # Name of stderr error file
+#SBATCH -p small          # Queue (partition) name
+#SBATCH -N 1             # Total # of nodes
+#SBATCH -n 10             # Total # of mpi tasks
+#SBATCH -t 1:00:00       # Run time (hh:mm:ss)
+#SBATCH --mail-type=all    # Send email at begin and end of job
+#SBATCH --mail-user=vkapil1@jh.edu
+
+# Any other commands must follow all #SBATCH directives...
+
+# Load modules
+module reset 
+module load TACC intel impi hdf5 gsl gcc
+# Print information
+module list
+pwd
+date
+
+export I_MPI_DEBUG=4
+
+mkdir $WORK/cosmo_bh_grid/n_5.00e+02
+
+# Launch MPI code...
+mkdir $WORK/cosmo_bh_grid/n_5.00e+02/met_1.00e-04
+mkdir $WORK/cosmo_bh_grid/n_5.00e+02/met_1.88e-04
+mkdir $WORK/cosmo_bh_grid/n_5.00e+02/met_3.55e-04
+mkdir $WORK/cosmo_bh_grid/n_5.00e+02/met_6.69e-04
+mkdir $WORK/cosmo_bh_grid/n_5.00e+02/met_1.26e-03
+mkdir $WORK/cosmo_bh_grid/n_5.00e+02/met_2.38e-03
+mkdir $WORK/cosmo_bh_grid/n_5.00e+02/met_4.48e-03
+mkdir $WORK/cosmo_bh_grid/n_5.00e+02/met_8.45e-03
+mkdir $WORK/cosmo_bh_grid/n_5.00e+02/met_1.59e-02
+mkdir $WORK/cosmo_bh_grid/n_5.00e+02/met_3.00e-02
+
+for i in `seq 1 1` 
+do 
+    ibrun -n 1 ~/COMPAS/src/COMPAS --number-of-systems 500 --output-path $WORK/cosmo_bh_grid/n_5.00e+02/met_1.00e-04/ --metallicity 0.00010000 --output-container run_$i & 
+    ibrun -n 1 ~/COMPAS/src/COMPAS --number-of-systems 500 --output-path $WORK/cosmo_bh_grid/n_5.00e+02/met_1.88e-04/ --metallicity 0.00018847 --output-container run_$i & 
+    ibrun -n 1 ~/COMPAS/src/COMPAS --number-of-systems 500 --output-path $WORK/cosmo_bh_grid/n_5.00e+02/met_3.55e-04/ --metallicity 0.00035520 --output-container run_$i & 
+    ibrun -n 1 ~/COMPAS/src/COMPAS --number-of-systems 500 --output-path $WORK/cosmo_bh_grid/n_5.00e+02/met_6.69e-04/ --metallicity 0.00066943 --output-container run_$i & 
+    ibrun -n 1 ~/COMPAS/src/COMPAS --number-of-systems 500 --output-path $WORK/cosmo_bh_grid/n_5.00e+02/met_1.26e-03/ --metallicity 0.00126166 --output-container run_$i & 
+    ibrun -n 1 ~/COMPAS/src/COMPAS --number-of-systems 500 --output-path $WORK/cosmo_bh_grid/n_5.00e+02/met_2.38e-03/ --metallicity 0.00237782 --output-container run_$i & 
+    ibrun -n 1 ~/COMPAS/src/COMPAS --number-of-systems 500 --output-path $WORK/cosmo_bh_grid/n_5.00e+02/met_4.48e-03/ --metallicity 0.00448140 --output-container run_$i & 
+    ibrun -n 1 ~/COMPAS/src/COMPAS --number-of-systems 500 --output-path $WORK/cosmo_bh_grid/n_5.00e+02/met_8.45e-03/ --metallicity 0.00844598 --output-container run_$i & 
+    ibrun -n 1 ~/COMPAS/src/COMPAS --number-of-systems 500 --output-path $WORK/cosmo_bh_grid/n_5.00e+02/met_1.59e-02/ --metallicity 0.01591789 --output-container run_$i & 
+    ibrun -n 1 ~/COMPAS/src/COMPAS --number-of-systems 500 --output-path $WORK/cosmo_bh_grid/n_5.00e+02/met_3.00e-02/ --metallicity 0.03000000 --output-container run_$i & 
+done 
+wait
