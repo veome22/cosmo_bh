@@ -160,9 +160,12 @@ def load_data(n_systems, metallicities, work_dir):
                 SMA_CO_ALL, ECC_CO_ALL, TYPE1_CO_ALL, TYPE2_CO_ALL, DELAY_TIMES_ALL 
 
 
-# Compute Star Forming Mass using correction factor to account for total Star Forming Mass, given that we only simulated IMF = Kroupa with [5, 150] M_sol
-# Computed in imf_correction notebook
-def get_sfm(n_systems, metallicities, M1_ZAMS_ALL, M2_ZAMS_ALL, SFM_CORR=54.81):
+
+def get_sfm(n_systems, metallicities, M1_ZAMS_ALL, M2_ZAMS_ALL, SFM_CORR=3.671):
+    '''
+    Computes the total Star Forming Mass in a galaxy where n_systems were simulated from IMF = Kroupa with [5, 150] M_sol
+    SFM_CORR is computed in imf_correction notebook
+    '''
     SFM_ALL = np.zeros(len(n_systems))
     for i in range(len(n_systems)):
         index = i*len(metallicities)
@@ -172,6 +175,9 @@ def get_sfm(n_systems, metallicities, M1_ZAMS_ALL, M2_ZAMS_ALL, SFM_CORR=54.81):
 
 
 def interpolate_n_bbh(sfm, metallicities, M1_BBH_ALL):
+    '''
+    Returns a 2d interpolator to get the number of BBHs for any given star forming mass and metallicity
+    '''
     N_BBH = np.zeros(len(M1_BBH_ALL))
     for i in range(len(N_BBH)):
         N_BBH[i] = len(M1_BBH_ALL[i])
@@ -182,7 +188,13 @@ def interpolate_n_bbh(sfm, metallicities, M1_BBH_ALL):
     met_sfm_to_n_bbh = interpolate.interp2d(metallicities, sfm, N_BBH_GRID)
     return met_sfm_to_n_bbh
 
+
 def met_to_met_weights(met, metallicities):
+    '''
+    Computes a normal distrbution of metallicities centered around 'met' according to the 
+    distribution specified in Fig. 10 and Eq. (48) of https://arxiv.org/pdf/2109.10352.pdf 
+    (the COMPAS doc paper).
+    '''
     SIGMA_Z = 0.39
     log_metallicities = np.log10(metallicities)
     log_met = np.log10(met)
@@ -195,7 +207,28 @@ def met_to_met_weights(met, metallicities):
     return weights    
 
 
-def flatten_list_by_met(sfm, metallicities, LIST):    
+def flatten_list_by_met(sfm, metallicities, LIST): 
+    '''
+    Groups a simulated list of binary parameters (e.g. M1_BBH) by metallicity, flattening across 'n_systems'
+    
+    Parameters:
+        sfm:              list of floats        
+            list of star forming masses represented in the simulation
+            used as a proxy for n_systems
+            
+        metallicities:    list of floats
+            list of metallicities represented in the simulation
+            
+        LIST:             list of lists             
+            list of Binary properties such that each simulation in a separate list, 
+            for a total of len(sfm) x len(metallicities) lists
+            
+        
+    Output: 
+        list_complete:     list of lists
+            list of Binary properties grouped by only metallicity, i.e. flattened by SFM
+
+    '''
     list_complete = []
     for m in range(len(metallicities)):
         # combine all the binaries for each metallicity
@@ -209,6 +242,36 @@ def flatten_list_by_met(sfm, metallicities, LIST):
 
 
 def draw_bbh_from_met(n_met_samples, metallicities, M1_BBH_METS, M2_BBH_METS, DELAY_TIMES_METS):
+    '''
+    Draws a set of BBHs including their m1, m2, and delay times based on a specified number of samples by metallicity.
+    
+    Parameters:
+        n_met_samples:           list of ints        
+            number of BBHs to sample from each metallicity in the 'metallicities' array
+            
+        metallicities:           list of floats
+            list of metallicities that the 'n_met_samples' correspond to
+            
+        M1_BBH_METS:             list of lists             
+            list of all the BBH Primary masses for each metallicity in the 'metallicities' array
+            
+        M2_BBH_METS:             list of lists             
+            list of all the BBH Secondary masses for each metallicity in the 'metallicities' array
+            
+        DELAY_TIMES_METS:        list of lists             
+            list of all the BBH Delay Times for each metallicity in the 'metallicities' array
+        
+        
+    Output: 
+       m1_sampled:                list of lists
+           sampled primary masses in separate lists corresponding to each metallicity in the 'metallicities' array
+       
+       m2_sampled:                list of lists
+            sampled secondary masses in separate lists corresponding to each metallicity in the 'metallicities' array
+       
+       delay_time_sampled:        list of lists
+           sampled delay times in separate lists corresponding to each metallicity in the 'metallicities' array
+    '''
     assert len(metallicities)==len(n_met_samples), "The length of sample array must be the same as the metallicity array"
     
     m1_sampled = []
@@ -228,7 +291,45 @@ def draw_bbh_from_met(n_met_samples, metallicities, M1_BBH_METS, M2_BBH_METS, DE
     return m1_sampled, m2_sampled, delay_time_sampled
         
     
-def sample_bbh_from_sfm_met(SFM, MET, sfm, metallicities, met_sfm_to_n_bbh, M1_BBH_METS, M2_BBH_METS, DELAY_TIMES_METS, M1_BBH_ALL):
+def sample_bbh_from_sfm_met(SFM, MET, sfm, metallicities, met_sfm_to_n_bbh, M1_BBH_METS, M2_BBH_METS, DELAY_TIMES_METS):
+    '''
+    THE MAIN FUNCTION of this file (!)
+    Draws a set of BBHs including their m1, m2, and delay times based on a specified metallicity and star forming mass
+    
+    Parameters:
+        SFM:                     float
+            The Star Forming Mass for which the BBHs need to be drawn
+            
+        MET:                     float
+            The metallicity for which the BBHs need to be drawn
+            
+        met_sfm_to_n_bbh:        scipy.interpolate.interpolate.interp2d       
+            2d interpolator that can generate the number of BBHs from metallicity and sfm
+            this is basically a wrapper for interpolate_n_bbh()
+            
+        metallicities:           list of floats
+            list of metallicities that the 'n_met_samples' correspond to
+            
+        M1_BBH_METS:             list of lists             
+            list of all the BBH Primary masses for each metallicity in the 'metallicities' array
+            
+        M2_BBH_METS:             list of lists             
+            list of all the BBH Secondary masses for each metallicity in the 'metallicities' array
+            
+        DELAY_TIMES_METS:        list of lists             
+            list of all the BBH Delay Times for each metallicity in the 'metallicities' array
+        
+        
+    Output: 
+       M1_SAMPLED:                list of floats
+           sampled list of primary masses 
+       
+       M2_SAMPLED:                list of floats
+            sampled list of secondary masses
+       
+       DELAY_TIME_SAMPLED:        list of floats
+           sampled list of delay times
+    '''
     weights = met_to_met_weights(MET, metallicities)
     n_bbh = met_sfm_to_n_bbh(MET, SFM)
     n_met_samples = (weights*n_bbh).astype(int)
@@ -240,6 +341,7 @@ def sample_bbh_from_sfm_met(SFM, MET, sfm, metallicities, met_sfm_to_n_bbh, M1_B
     DELAY_TIME_SAMPLED = flatten(DELAY_TIME_SAMPLED)
     
     return M1_SAMPLED, M2_SAMPLED, DELAY_TIME_SAMPLED
+
 
 def flatten(xss):
     return [x for xs in xss for x in xs]
