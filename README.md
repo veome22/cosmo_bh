@@ -11,4 +11,9 @@ The notebook containing the results of the simulations is [bh_properties.ipynb](
 
 
 # Drawing a Sample of BBHs at a given Star Forming Mass, Metallicity
-This repo uses the tools defined in the [cosmo_bbh_tools](../main/cosmo_bbh_tools/) directory to sample a population of BBHs using any Star Forming Mass and Metallicity value, as long as it lies within the simulated range. An example of how to do this, along with code to load the relavant data and functions, is shown in [draw_bbhs.ipynb](../main/draw_bbhs.ipynb).
+This repo uses the tools defined in the [cosmo_bbh_tools](../main/cosmo_bbh_tools/) directory to sample a population of BBHs using any Star Forming Mass and Metallicity value, as long as it lies within the simulated range. The main function to sample a population is called [sample_bbh_from_sfm_met()](../main/cosmo_bbh_tools/cosmo_bbh_tools.py#L294-L343).
+
+A complete example of how to sample a BBH population, along with code to load the relavant data, is shown in [draw_bbhs.ipynb](../main/draw_bbhs.ipynb). 
+**PLEASE START HERE.**
+
+
