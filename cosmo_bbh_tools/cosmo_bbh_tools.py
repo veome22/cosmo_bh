@@ -5,7 +5,7 @@ import os
 import h5py as h5 
 from scipy import interpolate
 from scipy import stats
-
+import json
 
 
 # this is a little function that we will use to make the plots more beautiful (bigger ticks, labels)
@@ -161,7 +161,7 @@ def load_data(n_systems, metallicities, work_dir):
 
 
 
-def get_sfm(n_systems, metallicities, M1_ZAMS_ALL, M2_ZAMS_ALL, SFM_CORR=3.671):
+def get_sfm(n_systems, metallicities, M1_ZAMS_TOTAL, M2_ZAMS_TOTAL, SFM_CORR=3.671, output_loc=None):
     '''
     Computes the total Star Forming Mass in a galaxy where n_systems were simulated from IMF = Kroupa with [5, 150] M_sol
     SFM_CORR is computed in imf_correction notebook
@@ -169,8 +169,12 @@ def get_sfm(n_systems, metallicities, M1_ZAMS_ALL, M2_ZAMS_ALL, SFM_CORR=3.671):
     SFM_ALL = np.zeros(len(n_systems))
     for i in range(len(n_systems)):
         index = i*len(metallicities)
-        SFM_ALL[i] = (np.sum(M1_ZAMS_ALL[index]+M2_ZAMS_ALL[index])) * SFM_CORR
-        print(f"Star Forming Mass in {len(M1_ZAMS_ALL[index]):.2e} stars: {SFM_ALL[i]:.2e} M_sol \n")
+        SFM_ALL[i] = (M1_ZAMS_TOTAL[index]+M2_ZAMS_TOTAL[index]) * SFM_CORR
+        print(f"Star Forming Mass in {n_systems[i]:.2e} stars: {SFM_ALL[i]:.2e} M_sol \n")
+    if output_loc is not None:
+        with open(output_loc,'w') as myfile:
+            json.dump(list(SFM_ALL), myfile)
+      
     return SFM_ALL
 
 
