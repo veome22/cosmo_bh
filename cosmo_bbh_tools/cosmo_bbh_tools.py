@@ -336,7 +336,7 @@ def sample_bbh_from_sfm_met(SFM, MET, sfm, metallicities, met_sfm_to_n_bbh, M1_B
     '''
     weights = met_to_met_weights(MET, metallicities)
     n_bbh = met_sfm_to_n_bbh(MET, SFM)
-    n_met_samples = (weights*n_bbh).astype(int)
+    n_met_samples = [round(num) for num in (weights*n_bbh)]
     
     M1_SAMPLED, M2_SAMPLED, DELAY_TIME_SAMPLED = draw_bbh_from_met(n_met_samples, metallicities, M1_BBH_METS, M2_BBH_METS, DELAY_TIMES_METS)
     
